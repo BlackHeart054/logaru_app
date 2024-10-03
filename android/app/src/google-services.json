@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545071368658",
+    "project_id": "logaru-6b0b1",
+    "storage_bucket": "logaru-6b0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545071368658:android:0917d343ab5e99e137600b",
+        "android_client_info": {
+          "package_name": "com.hashinc.logaru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqNAjKOAPtxpzB3ybCZJSPWdo6Mb-QAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
